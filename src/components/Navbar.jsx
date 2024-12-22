@@ -100,6 +100,7 @@ const NavBar = () => {
               <audio
                 ref={audioElementRef}
                 className="hidden"
+                autoPlay
                 src="audio/loop.mp3"
                 loop
               />
