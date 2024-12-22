@@ -12,7 +12,7 @@ const Footer = () => {
     <footer className="w-screen bg-gray-100 py-4 text-black">
       <div className="container mx-auto flex flex-col items-center justify-between gap-4 px-4 md:flex-row">
         <p className="text-center text-sm font-light md:text-left md:font-medium">
-          ©Shiv 2024. All rights reserved
+          ©Shiv 2024. Created For Educational Purpose Only. 
         </p>
 
         <div className="flex justify-center gap-4 md:justify-start">
